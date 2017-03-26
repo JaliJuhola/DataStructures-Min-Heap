@@ -1,0 +1,17 @@
+Jono on tyhjä.
+Jono on tyhjä.
+Jono on tyhjä.
+(7,Seiska) lis.
+(123,Luku) lis.
+(128,Luku) lis.
+(124,Luku) lis.
+(125,Luku) lis.
+Avain Luku on jo jonossa.
+(12,Luku) lis.
+(131,Luku) lis.
+(7,Seiska) poistettu.
+(121,Luku) lis.
+(12,Luku) poistettu.
+Luku(121) 	Luku(123) 	Luku(124) 	Luku(125) 	Luku(131) 	Luku(128) 	
+Pienin alkio on (121,Luku).
+Ohjelma lopetettu.

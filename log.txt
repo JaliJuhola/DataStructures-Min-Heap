@@ -1,0 +1,21 @@
+2017-01-29 16:05:05.534:  Output file set: output1.txt
+2017-01-29 16:05:05.541:  new input file set: input.txt
+2017-01-29 16:05:05.542:  Program started
+2017-01-29 16:05:05.543:  Inputs 17 values succesfully readed
+2017-01-29 16:05:05.545:  App executed succesfully
+2017-01-29 16:05:05.549:  (7, Seiska) added to priorityqueue succefully.
+2017-01-29 16:05:05.55:  (123, Luku) added to priorityqueue succefully.
+2017-01-29 16:05:05.55:  (128, Luku) added to priorityqueue succefully.
+2017-01-29 16:05:05.551:  (124, Luku) added to priorityqueue succefully.
+2017-01-29 16:05:05.552:  (125, Luku) added to priorityqueue succefully.
+2017-01-29 16:05:05.552:  Tried to add duplicated key 128to index 3
+2017-01-29 16:05:05.553:  (12, Luku) added to priorityqueue succefully.
+2017-01-29 16:05:05.553:  (131, Luku) added to priorityqueue succefully.
+2017-01-29 16:05:05.554:  (121, Luku) added to priorityqueue succefully.
+        121
+     123  131
+  124  125  128
+
+
+2017-01-29 16:05:05.558:  Program succesfully shut down
+2017-01-29 16:05:05.558:  Program ended whit code 0

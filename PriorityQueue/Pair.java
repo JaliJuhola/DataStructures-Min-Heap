@@ -5,6 +5,7 @@
      * <p>
      * @author Jali Juhola (421960),
      */
+package PriorityQueue;
 public class Pair {
     private int key;
     private Object data;
